@@ -37,6 +37,5 @@ public class Main {
         Game game = new Game(new Board(100), players, snakes, ladders, dice);
         // Play the game
         game.play();
-
     }
 }
